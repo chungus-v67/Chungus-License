@@ -3,14 +3,15 @@ You are allowed to
 1. Play with this Mod/Addon in Arma (Singleplayer or Multiplayer)
 2. Host the Mod on a server (unless prohibited)
 3. Create and share modifications, provided this mod remains a required dependency
+4. Use AI tools to read, explain, or debug it, and to help make compatible mods
 
 You are NOT allowed to
 1. Fork the mod, extract the contents, unpack it, copy the work, or claim it as your own. I.e, no stealing.
 2. Monetize your server without explicit permission (just ask me, I usually say yes)
 3. Blame the authors for any damage (including physical, wealth, health, whatever) that occurs from using this mod/addon.
-4. Use it to train AI
+4. Use it to train AI, or use AI to reproduce or redistribute it
 
-# Chungus-License (CHUNG-L), Version 1.0
+# Chungus-License (CHUNG-L), Version 1.1
 
 This license incorporates the terms and conditions that you accept and agree to for usage of the content distributed with this document.
 
@@ -47,7 +48,10 @@ This license incorporates the terms and conditions that you accept and agree to 
 
 ## Artificial Intelligence (AI) Use
 
-1. The Licensed Material may not be used, in whole or in part, in connection with any artificial intelligence, machine learning, or similar systems, including but not limited to training, fine-tuning, inference, dataset creation, or any other AI-related purpose, without explicit Written Permission from the Licensor.
+1. The Licensed Material may not be used, in whole or in part, to train, fine-tune, or evaluate any artificial intelligence or machine learning system, or to create datasets for such purposes, without explicit Written Permission from the Licensor.
+2. You may use AI tools to read, analyze, explain, or debug the Licensed Material, and to help create compatible Modifications, provided that:
+   1. the Licensed Material is not submitted to any service that retains it for training, where such an option can be disabled; and
+   2. any output remains subject to this License, including the restrictions on copying, redistribution, and claiming the work as your own.
 
 ## Terms and Conditions
 
