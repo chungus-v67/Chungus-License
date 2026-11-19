@@ -3,15 +3,16 @@ You are allowed to
 1. Play with this Mod/Addon in Arma (Singleplayer or Multiplayer)
 2. Host the Mod on a server (unless prohibited)
 3. Create and share modifications, provided this mod remains a required dependency
-4. Use AI tools to read, explain, or debug it, and to help make compatible mods
 
 You are NOT allowed to
 1. Fork the mod, extract the contents, unpack it, copy the work, or claim it as your own. I.e, no stealing.
 2. Monetize your server without explicit permission (just ask me, I usually say yes)
 3. Blame the authors for any damage (including physical, wealth, health, whatever) that occurs from using this mod/addon.
-4. Use it to train AI, or use AI to reproduce or redistribute it
+4. Use any part of it with AI in any way, including AI agents in projects that depend on it
 
-# Chungus-License (CHUNG-L), Version 1.1
+ArmaConflict GitHub members have extra permissions for ArmaConflict projects only. See ArmaConflict Exemptions.
+
+# Chungus-License (CHUNG-L), Version 1.2
 
 This license incorporates the terms and conditions that you accept and agree to for usage of the content distributed with this document.
 
@@ -32,6 +33,7 @@ This license incorporates the terms and conditions that you accept and agree to 
 13. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 14. **You** means the individual or entity exercising the Licensed Rights under this License. Your has a corresponding meaning.
 15. **Written Permission** means a contract between Licensor and You that defines the terms and conditions that applies in addition to or differs from this License
+16. **AI System** means any artificial intelligence or machine learning system, model, or service, including but not limited to large language models, chat assistants, coding assistants and agents, code completion tools, and image, audio, or 3D generation or analysis tools, whether run locally or as a service.
 
 ## License Grant
 
@@ -48,10 +50,17 @@ This license incorporates the terms and conditions that you accept and agree to 
 
 ## Artificial Intelligence (AI) Use
 
-1. The Licensed Material may not be used, in whole or in part, to train, fine-tune, or evaluate any artificial intelligence or machine learning system, or to create datasets for such purposes, without explicit Written Permission from the Licensor.
-2. You may use AI tools to read, analyze, explain, or debug the Licensed Material, and to help create compatible Modifications, provided that:
-   1. the Licensed Material is not submitted to any service that retains it for training, where such an option can be disabled; and
-   2. any output remains subject to this License, including the restrictions on copying, redistribution, and claiming the work as your own.
+1. No part of the Licensed Material may be used with any AI System, in any form and for any purpose, without explicit Written Permission from the Licensor. This covers all of the Licensed Material: source code and scripts, prefabs, configs, layouts and other data files, models, textures, materials, animations, sounds, packed or compiled files and binaries, documentation, and any extracted, converted, or derived form of these.
+2. Prohibited use includes, but is not limited to:
+   1. providing the Licensed Material, or any part of it, to an AI System as input, context, attachment, or retrieval source, whether by upload, paste, file access, indexing, or any automated means;
+   2. having an AI System read, parse, analyze, summarize, explain, debug, review, translate, or reverse engineer the Licensed Material;
+   3. using the Licensed Material to train, fine-tune, evaluate, or benchmark an AI System, or to create datasets, embeddings, or vector stores for such purposes;
+   4. using an AI System to reproduce, recreate, imitate, or generate code, assets, or other material from, or based on, the Licensed Material.
+3. This applies equally to AI coding agents and assistants that can access the Licensed Material on Your system, including where the Licensed Material is present as a Dependency, in a project, workspace, or game installation. You are responsible for excluding the Licensed Material from any AI System You use.
+4. Any material produced in breach of this section is not licensed under this License and may not be Shared.
+5. The Licensor expressly reserves all rights in the Licensed Material regarding text and data mining, within the meaning of Article 4(3) of Directive (EU) 2019/790, and under any equivalent provision of other applicable law. This reservation is made in machine-readable form by this License, which accompanies the Licensed Material.
+6. This section does not restrict the Licensor, or anyone acting under Written Permission from the Licensor.
+7. ArmaConflict Members may be exempt from this section as set out in ArmaConflict Exemptions.
 
 ## Terms and Conditions
 
@@ -66,6 +75,26 @@ This license incorporates the terms and conditions that you accept and agree to 
 ## Reverse Engineering and Extraction
 
 1. You are not allowed to unpack, extract, decompile, reverse engineer, or otherwise access the source files or underlying assets of the Licensed Material, except where such actions are strictly required for normal use within ArmaOnly.
+
+## ArmaConflict Exemptions
+
+1. Definitions for this section:
+   1. **ArmaConflict** means the GitHub organization located at https://github.com/ArmaConflict.
+   2. **ArmaConflict Member** means an individual who is a current member of ArmaConflict. An individual ceases to be an ArmaConflict Member on the date they leave, or are removed from, ArmaConflict.
+   3. **ArmaConflict Project** means a mod, Modification, server, or other work that is developed for, and published or operated under the name and authority of, ArmaConflict.
+2. Subject to the conditions of this section, an ArmaConflict Member is exempt from the following, solely for the purpose of developing, publishing, operating, and maintaining ArmaConflict Projects:
+   1. the section Artificial Intelligence (AI) Use;
+   2. the section Reverse Engineering and Extraction;
+   3. the restrictions on forking, copying, and reusing the Licensed Material, including the requirement in Modifications that the Licensed Material remain a required Dependency and not function as a substitute, replacement, or reupload; and
+   4. the requirement that servers hosting the Licensed Material be NonMonetized, and the need to obtain Written Permission before monetizing such servers.
+3. The exemptions in this section apply only to ArmaConflict Projects. Any Licensed Material, and any work derived from or produced with the Licensed Material under these exemptions, may be published, distributed, or operated only as part of an ArmaConflict Project, and may not be used in, incorporated into, or distributed with any other work, product, or service, including any work an ArmaConflict Member creates independently or separately from ArmaConflict.
+4. When an individual ceases to be an ArmaConflict Member:
+   1. all exemptions granted to that individual under this section end immediately;
+   2. the individual may not retain, reuse, publish, or distribute any Licensed Material, or any work derived from or produced with it under these exemptions, outside of ArmaConflict; and
+   3. material already incorporated into an ArmaConflict Project may remain in that project under the control of ArmaConflict, and continues to be subject to this section.
+5. These exemptions are personal to ArmaConflict Members and may not be transferred, sublicensed, or extended to any other person, group, or entity.
+6. All other terms and conditions of this License, including Attribution and Prohibited Users and Uses, continue to apply to ArmaConflict Members and ArmaConflict Projects.
+7. Any use outside the scope of this section is a breach of this License and terminates the exemptions and the License as set out in Term and Termination.
 
 ## Attribution
 
